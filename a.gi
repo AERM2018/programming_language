@@ -1,1 +1,1 @@
-int num=1;
+string msg = "Hola mundo";
